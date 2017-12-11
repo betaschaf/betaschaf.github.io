@@ -1,0 +1,14 @@
+<html><body>
+
+<div id="content" class="content">
+<script type="text/javascript" src="advertisement.js" style="display: none !important;"></script>
+<script type="text/javascript">
+if (document.getElementById("tester") == undefined) 
+{ 
+document.write(' <div id="adblocker" class="error">Bitte deaktiviere deinen AdBlocker!</div>'); 
+}
+ 
+</script> <div id="adblocker" class="error">Bitte deaktiviere deinen AdBlocker!</div>
+</div>
+
+</body></html>
