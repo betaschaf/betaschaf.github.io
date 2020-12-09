@@ -1,0 +1,5 @@
+youtube.com###player-ads > ytd-player-legacy-desktop-watch-ads-renderer.style-scope.ytd-watch-flexy
+youtube.com###ad-image\:4u
+youtube.com###ad-image
+youtube.com###companion > ytd-action-companion-ad-renderer.style-scope.ytd-companion-slot-renderer
+youtube.com##div.ytp-ad-action-interstitial-background-container:first-child
